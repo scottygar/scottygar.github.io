@@ -23,7 +23,7 @@
     <updated>2016-05-02T21:00:21.000Z</updated>
     
     <content type="html">&lt;p&gt;What a great weekend. Friends came up to see us on Saturday, stayed in a hotel I’ve always wanted to visit on Sunday night and then visited somewhere I’ve wanted to see for years; Rosslyn Chapel.&lt;/p&gt;
-&lt;div id=&quot;googleMap6645&quot; style=&quot;
+&lt;div id=&quot;googleMap8442&quot; style=&quot;
             height: 300px;
             width: 100%;
             margin: 0px;
@@ -33,13 +33,13 @@
 &lt;style&gt;.gmnoprint img {max-width: none !important;}&lt;/style&gt;
 &lt;script defer=&quot;defer&quot;&gt;
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps[&#39;initgoogleMap6645&#39;] = function init() {
+  window.hexoGmaps.maps[&#39;initgoogleMap8442&#39;] = function init() {
     var mapOptions = {
        &#39;scrollwheel&#39;: false,
        &#39;zoom&#39;: 15,
        &#39;center&#39;: new window.google.maps.LatLng( 55.855740 , -3.160129 ),
      },
-     target = document.getElementById(&#39;googleMap6645&#39;),
+     target = document.getElementById(&#39;googleMap8442&#39;),
      map = new window.google.maps.Map(target, mapOptions);
       
    
@@ -89,12 +89,12 @@
     <link href="https://scottygar.github.io/2016/05/02/recap/"/>
     <id>https://scottygar.github.io/2016/05/02/recap/</id>
     <published>2016-05-02T17:36:00.000Z</published>
-    <updated>2016-05-02T20:24:52.000Z</updated>
+    <updated>2016-05-03T09:37:56.000Z</updated>
     
     <content type="html">&lt;p&gt;September to now.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BAU&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tibco basics training course in Rotterdam.&lt;br&gt;  Code in production:&lt;ul&gt;
+&lt;li&gt;Tibco integration bootcamp course in Rotterdam - &lt;a href=&quot;http://inter.viewcentral.com/events/cust/search_results.aspx?keyword=&amp;cat4_id=28&amp;eventMonthYear=&amp;event_id=23&amp;cat1_id=&amp;postingForm=default.aspx&amp;cid=tibco&amp;pid=1&amp;lid=5&amp;cart_currency_code=&amp;payment_type=&amp;orderby_location=&amp;orderby_date=&amp;newRegistration=&amp;bundle_location_group=&amp;errmsg=&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BW611&lt;/a&gt;.&lt;br&gt;  Code in production:&lt;ul&gt;
 &lt;li&gt;Activate Card&lt;/li&gt;
 &lt;li&gt;Direct Debit&lt;/li&gt;
 &lt;li&gt;Logging &amp;amp; Error Upgrades&lt;/li&gt;
@@ -118,8 +118,7 @@
       &lt;p&gt;September to now.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BAU&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tibco basics training course in Rotterdam.&lt;br&gt;  Code in production:&lt;ul&gt;
-&lt;li&gt;Ac
+&lt;li&gt;Tibco integration bootcamp course in Rotterdam - &lt;a href=&quot;http://inter.viewcen
     
     </summary>
     
