@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/"/>
-  <updated>2016-05-11T15:55:04.000Z</updated>
+  <updated>2016-05-11T15:59:19.000Z</updated>
   <id>https://scottygar.github.io/</id>
   
   <author>
@@ -20,28 +20,34 @@
     <link href="https://scottygar.github.io/2016/05/11/no/"/>
     <id>https://scottygar.github.io/2016/05/11/no/</id>
     <published>2016-05-11T15:41:00.000Z</published>
-    <updated>2016-05-11T15:55:04.000Z</updated>
+    <updated>2016-05-11T15:59:19.000Z</updated>
     
-    <content type="html">&lt;p&gt;This Week:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- I have said no. On multiple occasions. And nothing bad has come of it.
-    - JobFamilies is complete and we&amp;apos;re not implementing top scrollbars.
-    - Company-wide JobFamilies is not going to be made by us.
-    - The SMF tool isn&amp;apos;t an option for us. We just don&amp;apos;t have time.
-
-- Factory 2 mocks have had my life for several days, and I have admitted defeat; for now.
-
-+ I have finished my Qualys VBA coding and handed off.
-+ I am looking at parsing JSON into Tibco, library imports and java are not playing easily, 
-but I am trying to get a handle on it.
-+ Tibco training went well, though I don&amp;apos;t feel I actually learnt much (The highlight was correcting 
-the textbook).
-&lt;/code&gt;&lt;/pre&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;This Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I have said no. On multiple occasions. And nothing bad has come of it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JobFamilies is complete and we’re not implementing top scrollbars.&lt;/li&gt;
+&lt;li&gt;Company-wide JobFamilies is not going to be made by us.&lt;/li&gt;
+&lt;li&gt;The SMF tool isn’t an option for us. We just don’t have time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Factory 2 mocks have had my life for several days, and I have admitted defeat; for now.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;I have finished my Qualys VBA coding and handed off.&lt;/li&gt;
+&lt;li&gt;I am looking at parsing JSON into Tibco, library imports and java are not playing easily, but I am trying to get a handle on it.&lt;/li&gt;
+&lt;li&gt;Tibco training went well, though I don’t feel I actually learnt much (The highlight was correcting the textbook).&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     
     <summary type="html">
     
-      &lt;p&gt;This Week:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- I have said no. On multiple occasions. And nothing bad has come of it.
-    - JobFamilies is complete and we&amp;a
+      &lt;p&gt;&lt;strong&gt;This Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I have said no. On multiple occasions. And nothing bad has come of it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JobFamili
     
     </summary>
     
@@ -101,9 +107,9 @@ the textbook).
       <category term="Work" scheme="https://scottygar.github.io/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/tags/Tibco/"/>
-    
       <category term="FirstPost" scheme="https://scottygar.github.io/tags/FirstPost/"/>
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/tags/Tibco/"/>
     
       <category term="BAU" scheme="https://scottygar.github.io/tags/BAU/"/>
     
