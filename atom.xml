@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/"/>
-  <updated>2016-05-13T13:11:55.000Z</updated>
+  <updated>2016-05-11T15:59:19.000Z</updated>
   <id>https://scottygar.github.io/</id>
   
   <author>
@@ -14,66 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>John</title>
-    <link href="https://scottygar.github.io/2016/05/13/John/"/>
-    <id>https://scottygar.github.io/2016/05/13/John/</id>
-    <published>2016-05-13T13:09:00.000Z</published>
-    <updated>2016-05-13T13:11:55.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Helko&lt;br&gt;ewfhwefbksdjb&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;lkjnwdfksfbsdkb&lt;br&gt;wefihweffmw&lt;br&gt;wefojfe0juwefj&lt;/li&gt;
-&lt;li&gt;liweflwlfl&lt;br&gt;pewojfweoj&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Helko&lt;br&gt;ewfhwefbksdjb&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;lkjnwdfksfbsdkb&lt;br&gt;wefihweffmw&lt;br&gt;wefojfe0juwefj&lt;/li&gt;
-&lt;li&gt;liweflwlfl&lt;br&gt;pewojfweoj&lt;/li&gt;
-&lt;/ul&gt;
-
-    
-    </summary>
-    
-    
-      <category term="Hello" scheme="https://scottygar.github.io/tags/Hello/"/>
-    
-      <category term="John" scheme="https://scottygar.github.io/tags/John/"/>
-    
-      <category term="Stuff" scheme="https://scottygar.github.io/tags/Stuff/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Scott</title>
-    <link href="https://scottygar.github.io/2016/05/13/Scott/"/>
-    <id>https://scottygar.github.io/2016/05/13/Scott/</id>
-    <published>2016-05-13T13:09:00.000Z</published>
-    <updated>2016-05-13T13:20:17.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Some stuff here.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Some stuff here.&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="Hello" scheme="https://scottygar.github.io/tags/Hello/"/>
-    
-      <category term="John" scheme="https://scottygar.github.io/tags/John/"/>
-    
-      <category term="Stuff" scheme="https://scottygar.github.io/tags/Stuff/"/>
-    
-  </entry>
   
   <entry>
     <title>#no</title>
@@ -167,9 +107,9 @@
       <category term="Work" scheme="https://scottygar.github.io/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/tags/Tibco/"/>
-    
       <category term="FirstPost" scheme="https://scottygar.github.io/tags/FirstPost/"/>
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/tags/Tibco/"/>
     
       <category term="BAU" scheme="https://scottygar.github.io/tags/BAU/"/>
     
