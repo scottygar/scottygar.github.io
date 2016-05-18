@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/"/>
-  <updated>2016-05-11T15:59:19.000Z</updated>
+  <updated>2016-05-18T10:04:00.000Z</updated>
   <id>https://scottygar.github.io/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#holiday</title>
+    <link href="https://scottygar.github.io/2016/05/18/holiday/"/>
+    <id>https://scottygar.github.io/2016/05/18/holiday/</id>
+    <published>2016-05-18T09:53:00.000Z</published>
+    <updated>2016-05-18T10:04:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;This week has been a learning curve of sorts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JSON handling PoC completed and stored for future use.&lt;/li&gt;
+&lt;li&gt;RESTful service PoC completed for PCU and stored for future use.&lt;/li&gt;
+&lt;li&gt;IA completed for a new loans service.&lt;/li&gt;
+&lt;li&gt;IA completed for PCAO.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IAs are not the easiest thing in the world - Basically trying to step through all the changes you need to make without actually completing them, and trying to foresee any issues this may cause.&lt;/p&gt;
+&lt;p&gt;The JSON handling is in a state where it works, as long as the order is specified - which isn’t really what JSON is about, so some refactoring to do there. (Or the potential purchase of a plugin to make it easier).&lt;/p&gt;
+&lt;p&gt;RESTful service is completed and ready to use / be adapted for future use in other projects - I think this will happen if we promote the fact that we can do it.&lt;/p&gt;
+&lt;p&gt;Now for holiday - Bring on Portugal.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This week has been a learning curve of sorts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JSON handling PoC completed and stored for future use.&lt;/li&gt;
+&lt;li&gt;RESTful servic
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/categories/Work/"/>
+    
+    
+      <category term="JSON" scheme="https://scottygar.github.io/tags/JSON/"/>
+    
+      <category term="REST" scheme="https://scottygar.github.io/tags/REST/"/>
+    
+      <category term="IA" scheme="https://scottygar.github.io/tags/IA/"/>
+    
+      <category term="Holiday" scheme="https://scottygar.github.io/tags/Holiday/"/>
+    
+      <category term="Learning" scheme="https://scottygar.github.io/tags/Learning/"/>
+    
+      <category term="PoC" scheme="https://scottygar.github.io/tags/PoC/"/>
+    
+  </entry>
   
   <entry>
     <title>#no</title>
