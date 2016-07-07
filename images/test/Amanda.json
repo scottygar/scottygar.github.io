@@ -1,4 +1,6 @@
 {
+  "days":[
+    {
   "date": 1421384400000,
   "events": [
   {
@@ -73,30 +75,9 @@
     "uniqueId": "4c91556ced6d010637",
     "shelfLife": 1
   },
-  {
-    "transactionNumber": "26671483992016-06-07 17:29:40.00010637",
-    "transaction_end_datetime": "29:40.0",
-    "transaction_start_datetime": "26:14.0",
-    "transaction_start_time": "17:26",
-    "year_week_day": 16152,
-    "year_week_number": 201615,
-    "year_number": 2016,
-    "week_number": 15,
-    "day_number": 2,
-    "clubcard_number": "zm4uk/icl0SVRNgu8enDMD2TvY9Z7wvx0KrLf8+njyn4174Tv6SidwQyn97qRyYKjZBJTuOThPejpYXPRQu9iQ==",
-    "quantity": 1,
-    "itemPrice": 2,
-    "productId": "trn:tesco:product:uuid:70a00dcc-790b-4ede-91f2-4c91556ced6d",
-    "productCategory1": "F FRESH FOODS",
-    "productCategory2": "F1 FRESH FRUIT/VEG/SALAD",
-    "productCategory3": "F15 VEGETABLES",
-    "productCategory4": "F15S POTATOES",
-    "productCategory5": "F15SG BAKING POTATOES",
-    "productDescription": "Tesco Jacket Potatoes 2.5Kg",
-    "transactionDate": "04/07/2016",
-    "uniqueId": "4c91556ced6d010637",
-    "shelfLife": 1
-  },
+    {
+  "date": 1467849600000,
+  "events": [
   {
     "transactionNumber": "26671483992016-06-07 17:29:40.00010637",
     "transaction_end_datetime": "29:40.0",
@@ -4729,5 +4710,7 @@
     "uniqueId": "32bb7a82c4fa031014",
     "shelfLife": 4
   }
+]
+}
 ]
 }
