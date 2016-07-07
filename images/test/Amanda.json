@@ -1,4 +1,6 @@
-[
+{
+  "date": 1421384400000,
+  "events": [
   {
     "transactionNumber": "26671483992016-06-07 17:29:40.00010637",
     "transaction_end_datetime": "29:40.0",
@@ -4728,3 +4730,4 @@
     "shelfLife": 4
   }
 ]
+}
