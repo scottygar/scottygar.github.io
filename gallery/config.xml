@@ -2,8 +2,106 @@
 
 <juiceboxgallery 
 
-	useFlickr="true"
-	flickrUserName="scottygar"
+	useFlickr="false"
 	useFullscreenExpand="true"
 	showThumbsButton="true"
-	indexPageName="gallery.html"/>
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/_DSC0073-1.jpg"
+	thumbURL="thumbs/_DSC0073-1.jpg"
+	linkURL="images/_DSC0073-1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0073-1.png">
+    <title><![CDATA[_DSC0073-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0124-1.jpg"
+	thumbURL="thumbs/_DSC0124-1.jpg"
+	linkURL="images/_DSC0124-1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0124-1.png">
+    <title><![CDATA[_DSC0124-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0136.jpg"
+	thumbURL="thumbs/_DSC0136.jpg"
+	linkURL="images/_DSC0136.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0136.png">
+    <title><![CDATA[_DSC0136]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0142.jpg"
+	thumbURL="thumbs/_DSC0142.jpg"
+	linkURL="images/_DSC0142.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0142.png">
+    <title><![CDATA[_DSC0142]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0173-1.jpg"
+	thumbURL="thumbs/_DSC0173-1.jpg"
+	linkURL="images/_DSC0173-1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0173-1.png">
+    <title><![CDATA[_DSC0173-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0191-1.jpg"
+	thumbURL="thumbs/_DSC0191-1.jpg"
+	linkURL="images/_DSC0191-1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0191-1.png">
+    <title><![CDATA[_DSC0191-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0289.jpg"
+	thumbURL="thumbs/_DSC0289.jpg"
+	linkURL="images/_DSC0289.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0289.png">
+    <title><![CDATA[_DSC0289]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0506.jpg"
+	thumbURL="thumbs/_DSC0506.jpg"
+	linkURL="images/_DSC0506.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0506.png">
+    <title><![CDATA[_DSC0506]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0579.jpg"
+	thumbURL="thumbs/_DSC0579.jpg"
+	linkURL="images/_DSC0579.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0579.png">
+    <title><![CDATA[_DSC0579]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0614.jpg"
+	thumbURL="thumbs/_DSC0614.jpg"
+	linkURL="images/_DSC0614.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0614.png">
+    <title><![CDATA[_DSC0614]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0637.jpg"
+	thumbURL="thumbs/_DSC0637.jpg"
+	linkURL="images/_DSC0637.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0637.png">
+    <title><![CDATA[_DSC0637]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_DSC0704.jpg"
+	thumbURL="thumbs/_DSC0704.jpg"
+	linkURL="images/_DSC0704.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/scottygar/Desktop/TempBlog/scottygar/untitled folder/TempPics/OneDrive-2016-10-19/_DSC0704.png">
+    <title><![CDATA[_DSC0704]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
