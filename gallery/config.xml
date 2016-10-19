@@ -2,10 +2,13 @@
 
 <juiceboxgallery 
 
-	useFlickr="false"
+	useFlickr="true"
 	useFullscreenExpand="true"
 	showThumbsButton="true"
 	indexPageName="gallery.html"
+	flickrUserName="scottygar"
+	flickrTags="wedding"
+	galleryTitle="Weddings"
 
 >
   <image imageURL="images/_DSC0073-1.jpg"
