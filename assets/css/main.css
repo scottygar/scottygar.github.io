@@ -3130,6 +3130,7 @@
 
 			#banner {
 				padding: 12em 3em 12.375em 3em ;
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0.3)), url("https://0nqjmq.bl3301.livefilestore.com/y3m31b0QRE18RM1Lqdh54YGrroL2YqubTBM1At0IYvOKp6rf9Mr28I-EDwXIrWZsbboVraTbSS1m1F0Hj5zFv5MTBeucG_WWlR9U1hpf8aRTctQzNH4TVN_tS8Z7JmN_orHoM2ZmxuXaWG9upj0dN9qfkMfoe3od-lAqffnFQhD72U?width=1024&height=576&cropmode=medium");
 				margin-bottom: -4.75em;
 			}
 
