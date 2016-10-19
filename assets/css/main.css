@@ -1624,7 +1624,7 @@
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../../images/bg.jpg");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -2727,7 +2727,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(0, 0, 0, 0.4);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3130,7 +3130,7 @@
 
 			#banner {
 				padding: 12em 3em 12.375em 3em ;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0.3)), url("https://0nqjmq.bl3301.livefilestore.com/y3m31b0QRE18RM1Lqdh54YGrroL2YqubTBM1At0IYvOKp6rf9Mr28I-EDwXIrWZsbboVraTbSS1m1F0Hj5zFv5MTBeucG_WWlR9U1hpf8aRTctQzNH4TVN_tS8Z7JmN_orHoM2ZmxuXaWG9upj0dN9qfkMfoe3od-lAqffnFQhD72U?width=1024&height=576&cropmode=medium");
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0.3)), url("https://c3.staticflickr.com/9/8772/28192897954_9f4515d43f_b.jpg");
 				margin-bottom: -4.75em;
 			}
 
@@ -3229,7 +3229,7 @@
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
 			margin-bottom: -6.5em;
@@ -3620,8 +3620,8 @@
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-color: #ffffff;
+			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, center;
 			margin-top: -6.5em;
